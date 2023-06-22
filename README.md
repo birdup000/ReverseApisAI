@@ -13,7 +13,7 @@ https://discord.gg/jQEXpnacT
 👁️ 👁️ (acheong08's Discord Server)
 https://discord.gg/qGFwCvMRSJ
 
-For the free API (free.churchless.tech) (https://free.churchless.tech/v1/chat/completions)
+For the free API (free.churchless.tech) `https://free.churchless.tech/v1/chat/completions`
 Set API key `MyDiscord` to get rid of 401 errors. This was due to DDOS. Thank you
 
 Headers: `Authorization: Bearer MyDiscord`
