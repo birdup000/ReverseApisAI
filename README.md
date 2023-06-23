@@ -93,7 +93,7 @@ This is a list of reverse APIs for GPT3.5 and GPT4 models.
 
 ### Free GPT-4
 - Discord Server: [Free GPT-4](https://discord.gg/jSG3URCQRy)
-- API Endpoint: `https://free-gpt4.vercel.app/`
+- API Endpoint: `https://shadowwrite.com/v1`
 
 ### Pawan.Krd
 - Discord Server: [Pawan.Krd](https://discord.gg/pawan)
@@ -106,7 +106,7 @@ This is a list of reverse APIs for GPT3.5 and GPT4 models.
 - Check Status: `https://chimeragpt.adventblocks.cc/`
 - API URL Base: `https://chimeragpt.adventblocks.cc/v1`
 - Image Generations: `https://chimeragpt.adventblocks.cc/v1/images/generations`
-- Chat Completions: `https://chimeragpt.adventblocks.cc/v1/chat/completions/`
+
 - Completions: `https://chimeragpt.adventblocks.cc/v1/completions`
 - Embeddings: `https://chimeragpt.adventblocks.cc/v1/embeddings`
 - Moderation: `https://chimeragpt.adventblocks.cc/v1/moderations`
@@ -117,5 +117,8 @@ This is a list of reverse APIs for GPT3.5 and GPT4 models.
 
 Credits: [FreeGPT-4](https://github.com/Lomusire/FreeGPT-4) and [ChimeraGPT Discord Server](https://discord.gg/3KtHBkJKMb)
 
+### TanGPT [From ChatUI](https://tangpt.vercel.app/)
+- Chat Completions: `https://chatgptapifree-yhuk4sldxq-uw.a.run.app/v1/chat/completions`
+  
 ### Note
 - Please refer to the respective Discord servers to obtain the API keys.
