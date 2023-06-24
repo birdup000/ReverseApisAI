@@ -1,7 +1,7 @@
 # ReverseApis
-PLEASE BE RESPONSIBLE WHEN USING THESE REVERSE API's
-This is a list of reverse APIs for GPT3.5 and GPT4 models.
-
+-PLEASE BE RESPONSIBLE WHEN USING THESE listed REVERSE API's
+-This is a list of reverse APIs for GPT3.5 and GPT4 models.
+-We are not endorsing any of the listed services! Some of them might be considered controversial. We are not responsible for any legal, technical or any other damage caused by using the listed services. Data is provided without warranty of any kind
 ## Providers with their Discord Servers and API URLs
 
 ### CattoGPT
