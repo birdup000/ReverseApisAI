@@ -79,7 +79,7 @@ This is a list of reverse APIs for GPT3.5 and GPT4 models.
 - Discord Server: [FoxGPT](https://discord.gg/jQEXpnacT)
 - API Endpoint: `https://api.hypere.app/v1/chat/completions`
 
-### 👁️ 👁️ (acheong08's Discord Server)
+### 👁️ 👁️ Churchless 
 - Discord Server: [acheong08's Discord Server](https://discord.gg/qGFwCvMRSJ)
 - Free API Endpoint: `https://free.churchless.tech/v1/chat/completions`
 - Set API Key `MyDiscord` to avoid 401 errors. This was due to DDOS.
