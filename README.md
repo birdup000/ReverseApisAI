@@ -1,5 +1,5 @@
 # ReverseApis
-
+PLEASE BE RESPONSIBLE WHEN USING THESE REVERSE API's
 This is a list of reverse APIs for GPT3.5 and GPT4 models.
 
 ## Providers with their Discord Servers and API URLs
