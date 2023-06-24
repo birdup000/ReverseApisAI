@@ -119,6 +119,12 @@ Credits: [FreeGPT-4](https://github.com/Lomusire/FreeGPT-4) and [ChimeraGPT Disc
 
 ### TanGPT [From ChatUI](https://tangpt.vercel.app/)
 - Chat Completions: `https://chatgptapifree-yhuk4sldxq-uw.a.run.app/v1/chat/completions`
+
+### NovaGPT 2.0 Coming Soon!
+- Discord Server: [NovaGPT 2.0](https://discord.gg/zWCkjdFpzw)
+
   
 ### Note
 - Please refer to the respective Discord servers to obtain the API keys.
+
+  
