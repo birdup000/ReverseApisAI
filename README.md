@@ -91,7 +91,7 @@ This is a list of reverse APIs for GPT3.5 and GPT4 models.
   - `/key` - Generate your API key
   - `/usage` - Check your API resource usage and limits
 
-### ShadowGPT
+### ShadowGPT Formerly known as Free GPT-4
 - Discord Server: [ShadowGPT](https://discord.gg/jSG3URCQRy)
 - API Endpoint: `https://shadowwrite.com/v1`
 
