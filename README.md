@@ -123,8 +123,8 @@ Credits: [FreeGPT-4](https://github.com/Lomusire/FreeGPT-4) and [ChimeraGPT Disc
 ### [PurGPT](https://purgpt.xyz/)
 - API: `https://purgpt.xyz/v1`
 
-### NovaGPT 2.0 Coming Soon!
-- Discord Server: [NovaGPT 2.0](https://discord.gg/zWCkjdFpzw)
+### NovaAI 2.0 Coming Soon!
+- Discord Server: [NovaAI 2.0](https://discord.gg/zWCkjdFpzw)
 
   
 ### Note
